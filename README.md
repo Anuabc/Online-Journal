@@ -1,1 +1,1 @@
-# online-journal
+# Online Journal
